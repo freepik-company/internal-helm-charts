@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   cog-ai-model:
   - apiVersion: v2
+    created: "2024-05-29T13:34:02.075987274Z"
+    description: A Helm chart to install an IA model with Cog
+    digest: bafb41a432e7f1b0f526cacefafac6608151013e1a1fb6f73375466b60c72e53
+    name: cog-ai-model
+    type: application
+    urls:
+    - https://github.com/freepik-company/internal-helm-charts/releases/download/cog-ai-model-0.15.0/cog-ai-model-0.15.0.tgz
+    version: 0.15.0
+  - apiVersion: v2
     created: "2024-04-05T13:20:54.572773219Z"
     description: A Helm chart to install an IA model with Cog
     digest: f701a6ab1ecf758155df21742552d37d1b4a2b2283af3f94b536e7a21d12b8ad
@@ -199,4 +208,4 @@ entries:
     urls:
     - https://github.com/freepik-company/private-helm-charts/releases/download/cog-ai-model-0.2.0/cog-ai-model-0.2.0.tgz
     version: 0.2.0
-generated: "2024-04-05T13:20:54.572947583Z"
+generated: "2024-05-29T13:34:02.076119202Z"
